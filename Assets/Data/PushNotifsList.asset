@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f78961875a31494abda6e98f6cd2b59, type: 3}
+  m_Name: PushNotifsList
+  m_EditorClassIdentifier: 
+  PushNotifs:
+  - '{0} snuggles up on your lap.'
+  - '{0} is looking a bit sleepy.'
+  - '{0} is interested in whatever is outside.'
+  - '{0} is taking a nap.'
+  - '{0} is trying to catch a bug.'
